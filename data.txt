@@ -1,0 +1,26 @@
+chrome/w0.wav
+chrome/w1.wav
+chrome/w2.wav
+chrome/w3.wav
+chrome/w4.wav
+khoa may/w0.wav
+khoa may/w1.wav
+khoa may/w2.wav
+khoa may/w3.wav
+khoa may/w4.wav
+tang do sang/w0.wav
+tang do sang/w1.wav
+tang do sang/w2.wav
+tang do sang/w3.wav
+tang do sang/w4.wav
+giam do sang/w0.wav
+giam do sang/w1.wav
+giam do sang/w2.wav
+giam do sang/w3.wav
+giam do sang/w4.wav
+tang am luong/w0.wav
+tang am luong/w1.wav
+tang am luong/w2.wav
+tang am luong/w3.wav
+tang am luong/w4.wav
+tang am luong/w5.wav
